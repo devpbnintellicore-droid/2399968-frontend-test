@@ -1,0 +1,73 @@
+# -----------------------------
+# Node Modules
+# -----------------------------
+node_modules/
+
+# -----------------------------
+# Build / Production
+# -----------------------------
+dist/
+build/
+.next/
+out/
+
+# -----------------------------
+# Logs
+# -----------------------------
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# -----------------------------
+# Environment Variables
+# -----------------------------
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# -----------------------------
+# Cache / Temp
+# -----------------------------
+.cache/
+.tmp/
+.temp/
+
+# -----------------------------
+# OS Files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# IDE / Editor
+# -----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -----------------------------
+# TypeScript
+# -----------------------------
+*.tsbuildinfo
+
+# -----------------------------
+# Testing
+# -----------------------------
+coverage/
+
+# -----------------------------
+# Misc
+# -----------------------------
+*.pem
+*.key
+
+CLAUDE.md
+
+
+FRONTEND_DEVELOPMENT_PROGRESS_2024.md
